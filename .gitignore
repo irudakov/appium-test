@@ -1,0 +1,19 @@
+# IntelliJ IDEA Files #
+
+*.iml
+*.ipr
+*.iws
+*.idea
+
+# Test files
+
+accessingdataneo4j.db
+dependency-reduced-pom.xml
+out
+
+# Build Files #
+
+bin
+target
+build/
+.gradle
